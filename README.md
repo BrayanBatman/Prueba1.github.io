@@ -40,8 +40,6 @@ html
 
 </body>
 
-</html>
-
 html
 
 <!DOCTYPE html>
@@ -77,8 +75,6 @@ html
     <h1>Lo sé, Feliz cumpleaños mi amor</h1>
 
 </body>
-
-</html>
 
 html
 
