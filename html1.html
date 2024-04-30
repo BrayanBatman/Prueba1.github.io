@@ -1,0 +1,22 @@
+﻿html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>¿Quién te gusta más?</title>
+</head>
+<body>
+    <h2>¿Quién te gusta más?</h2>
+    <button onclick="mostrarTarjeta('Brayan')">Brayan</button>
+    <button onclick="mostrarTarjeta('Batman')">Batman</button>
+
+    <script>
+        function mostrarTarjeta(nombre) {
+            if (nombre === 'Brayan') {
+                window.location.href = 'tarjeta_brayan.html';
+            } else if (nombre === 'Batman') {
+                window.location.href = 'tarjeta_batman.html';
+            }
+        }
+    </script>
+</body>
+</html>
